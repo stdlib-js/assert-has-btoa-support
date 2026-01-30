@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasBtoaSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-btoa-support@deno/mod.js';
+import hasBtoaSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-btoa-support@v0.1.0-deno/mod.js';
 ```
 
 #### hasBtoaSupport()
@@ -65,7 +65,7 @@ var bool = hasBtoaSupport();
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import hasBtoaSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-btoa-support@deno/mod.js';
+import hasBtoaSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-btoa-support@v0.1.0-deno/mod.js';
 
 var bool = hasBtoaSupport();
 if ( bool ) {
